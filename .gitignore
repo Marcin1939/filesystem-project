@@ -1,0 +1,19 @@
+# Ignoruj katalog budowania
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignoruj pliki binarne
+*.o
+*.out
+*.exe
+
+# Ignoruj pliki edytorów
+*.swp
+*.swo
+*.bak
+
+# Ignoruj pliki logów
+*.log
